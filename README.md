@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SafeNight
 
 SafeNight is a women's safety web application project designed to support safer night travel. The website combines trip logging, emergency contact management, SOS alerting, unsafe area reporting, and a map-based route simulation into one system.
@@ -340,3 +341,7 @@ For an academic project, it demonstrates:
 - database integration
 - modular code reuse
 - user-centered problem solving
+=======
+# Women-s_Safety_Night_Travel
+SafeNight is a women’s safety web app for safer night travel, combining trip logging, emergency contacts, SOS alerts, route planning, and unsafe area reporting in one  platform.
+>>>>>>> 64383aca398e7a9dbb63538bf5e146805f3d8276
